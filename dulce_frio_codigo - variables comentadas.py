@@ -1,9 +1,7 @@
 from tkinter import *
 from tkinter import PhotoImage
 from tkinter import messagebox
-#frans notes
 
-#add all the variables values in comments
 
 #fondo guarda el color del fondo de la aplicacion
 fondo="floral white"
