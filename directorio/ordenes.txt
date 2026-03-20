@@ -1,0 +1,4 @@
+Bochas:2,Sabor(es):Chocolate \n', 'Vainilla ,Precio:1200
+Bochas:3,Sabor(es):Vainilla \n', 'Dulce de leche \n', 'Marroq,Precio:1600
+Bochas:2,Sabor(es):Chocolate \n', 'Vainilla ,Precio:1200
+Bochas:3,Sabor(es):Chocolate \n', 'Vainilla \n', 'Dulce de leche ,Precio:1600
